@@ -1,6 +1,6 @@
 # Bangladesh: Climate Analysis of Annual Average Temperature and Rainfall for a Period of 60 years
 
-### GOle
+### Goal
 Temperature and rainfall are very important for an agricultural-based country like Bangladesh. Climate change will affect the country's economy and the lifestyle of people. So, it is necessary to monitor and analyze the pattern of climate change in Bangladesh. 
 
 
