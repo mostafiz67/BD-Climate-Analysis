@@ -1,10 +1,10 @@
-# Bangladesh: Climate Analysis of Annual Average Temperature and Rainfall for a Period of 60 years
+# Climate Analysis of Bangladesh for a Period of 60 years
 
 ### Goal
 Temperature and rainfall are very important for an agricultural-based country like Bangladesh. Climate change will affect the country's economy and the lifestyle of people. So, it is necessary to monitor and analyze the pattern of climate change in Bangladesh. 
 
 
-### Abstract
+### Result
 When the statistical properties of the climate system have been changing for several decades or longer, typically for at least 30 years, this is known as climate change. Climate change in Bangladesh is an important issue. Recent changes in the climate of Bangladesh have been assessed using temperature and rainfall data collected at 35 meteorological stations from 1948 through 2013. The result showed an increasing trend for the maximum and minimum annual average temperature at a rate of 0.033C, and 0.096C per decades respectively. More warming was observed for post-monsoon autumn, rainy monsoon, and every region of Bangladesh except the northern region. The Overall annual average minimum temperature was increased for every region and in every season. Annually rainfall increased were observed at a rate of 2.596 mm per year and showed an increasing trend in every season. The spatial pattern of rainfall trends showed an increase in the central, eastern, northern, north southern, and southeastern parts of Bangladesh. However, the northwestern and southern parts of Bangladesh revealed decreasing trends of rainfall. 
 
 <img src="https://github.com/mostafiz67/BD-Climate-Analysis-using-R/blob/master/Figures/Maximum%20Temperature%20Anomaly%20(1968-2013).png" alt="Average Maximum Temperature Anomalies (1968-2013)" width="650" height="500">
